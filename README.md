@@ -185,15 +185,7 @@ Consider loyalty programs and targeted offers for high-income and high-value cus
 
 ---
 
-## 📂 Project Structure
 
-```text
-Bike-Sales-EDA/
-│
-├── Ai_and_applicationsproject.ipynb
-├── Bike Sales Sheet.xlsx
-└── README.md
-```
 
 ---
 
